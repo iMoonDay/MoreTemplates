@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:diamond_ingot"
+  },
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "result": {
+    "item": "minecraft:diamond_hoe"
+  },
+  "template": {
+    "item": "minecraft:diamond_upgrade_smithing_template"
+  }
+}
