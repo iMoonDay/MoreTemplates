@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "addition": {
-    "item": "minecraft:diamond_ingot"
+    "item": "minecraft:diamond"
   },
   "base": {
     "item": "minecraft:iron_pickaxe"
@@ -10,6 +10,6 @@
     "item": "minecraft:diamond_pickaxe"
   },
   "template": {
-    "item": "minecraft:diamond_upgrade_smithing_template"
+    "item": "more_templates:diamond_upgrade_smithing_template"
   }
 }

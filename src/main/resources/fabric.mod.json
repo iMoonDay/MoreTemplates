@@ -14,9 +14,6 @@
   "icon": "assets/more_templates/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "com.imoonday.more_templates.client.MoreTemplatesClient"
-    ],
     "main": [
       "com.imoonday.more_templates.MoreTemplates"
     ]

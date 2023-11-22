@@ -9,7 +9,7 @@
       "item": "minecraft:leather"
     },
     "S": {
-      "item": "minecraft:iron_upgrade_smithing_template"
+      "item": "more_templates:iron_upgrade_smithing_template"
     }
   },
   "pattern": [
@@ -19,7 +19,7 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:iron_upgrade_smithing_template"
+    "item": "more_templates:iron_upgrade_smithing_template"
   },
   "show_notification": true
 }

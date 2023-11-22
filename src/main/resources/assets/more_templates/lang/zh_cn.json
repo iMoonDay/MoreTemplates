@@ -1,0 +1,12 @@
+{
+  "item.minecraft.smithing_template.iron_upgrade.additions_slot_description": "放入铁锭",
+  "item.minecraft.smithing_template.iron_upgrade.applies_to": "锁链装备",
+  "item.minecraft.smithing_template.iron_upgrade.base_slot_description": "添加锁链盔甲、武器或工具",
+  "item.minecraft.smithing_template.iron_upgrade.ingredients": "铁锭",
+  "upgrade.minecraft.iron_upgrade": "铁升级",
+  "item.minecraft.smithing_template.diamond_upgrade.additions_slot_description": "放入钻石",
+  "item.minecraft.smithing_template.diamond_upgrade.applies_to": "铁装备",
+  "item.minecraft.smithing_template.diamond_upgrade.base_slot_description": "添加铁盔甲、武器或工具",
+  "item.minecraft.smithing_template.diamond_upgrade.ingredients": "钻石",
+  "upgrade.minecraft.diamond_upgrade": "钻石升级"
+}

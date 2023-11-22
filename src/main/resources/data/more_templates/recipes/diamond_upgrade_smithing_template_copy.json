@@ -7,14 +7,14 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:leather"
+      "item": "minecraft:gold_block"
     },
     "S": {
       "item": "minecraft:netherite_upgrade_smithing_template"
     }
   },
   "result": {
-    "item": "more_templates:iron_upgrade_smithing_template",
+    "item": "more_templates:diamond_upgrade_smithing_template",
     "count": 1
   }
 }
